@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoRiddle</string>
+    <string name="question1tv">Question 1 /n this word has the same pronounciation even  after removing 4 pronouns from it</string>
+    <string name="question2tv">Question 2 /n how do make 1 dissapear</string>
+    <string name="Reveal">Reveal</string>
+</resources>
